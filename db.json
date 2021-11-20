@@ -8,7 +8,7 @@
             "name": "Hotel 3 stars",
             "attributes": {
                 "rarity": 3,
-                "rooms: 12,
+                "rooms": 12,
                 "staff": 24
             }
         },
@@ -20,7 +20,7 @@
             "name": "Hotel 2 stars",
             "attributes": {
                 "rarity": 2,
-                "rooms: 8,
+                "rooms": 8,
                 "staff": 16
             }
         },
@@ -32,7 +32,7 @@
             "name": "Hotel 4 stars",
             "attributes": {
                 "rarity": 4,
-                "rooms: 16,
+                "rooms": 16,
                 "staff": 32
             }
         }
