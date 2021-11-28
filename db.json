@@ -4,36 +4,36 @@
             "id": 1,
             "description": "NFT of paradise",
             "external_url": "https://jedi.paradisehotelnft.com/hotel/1",
-            "image": "https://s3.paradisehotelnft.com/hotel/hotel3_2.png",
+            "image": "https://assetsparadise.s3.sa-east-1.amazonaws.com/hotels/Hotel3_2.png",
             "name": "Hotel 3 stars",
             "attributes": {
                 "rarity": 3,
                 "rooms": 12,
-                "staff": 24
+                "staff": 6
             }
         },
         {
             "id": 2,
             "description": "NFT of paradise",
             "external_url": "https://jedi.paradisehotelnft.com/hotel/2",
-            "image": "https://s3.paradisehotelnft.com/hotel/hotel2_1.png",
-            "name": "Hotel 2 stars",
+            "image": "https://assetsparadise.s3.sa-east-1.amazonaws.com/hotels/Hotel4_1.png",
+            "name": "Hotel 4 stars",
             "attributes": {
                 "rarity": 2,
-                "rooms": 8,
-                "staff": 16
+                "rooms": 15,
+                "staff": 8
             }
         },
         {
             "id": 3,
             "description": "NFT of paradise",
             "external_url": "https://jedi.paradisehotelnft.com/hotel/2",
-            "image": "https://s3.paradisehotelnft.com/hotel/hotel4_2.png",
-            "name": "Hotel 4 stars",
+            "image": "https://assetsparadise.s3.sa-east-1.amazonaws.com/hotels/Hotel1_2.png",
+            "name": "Hotel 1 stars",
             "attributes": {
                 "rarity": 4,
-                "rooms": 16,
-                "staff": 32
+                "rooms": 5,
+                "staff": 10
             }
         }
     ]
