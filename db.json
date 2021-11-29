@@ -19,7 +19,7 @@
             "image": "https://assetsparadise.s3.sa-east-1.amazonaws.com/hotels/Hotel4_1.png",
             "name": "Hotel 4 stars",
             "attributes": {
-                "rarity": 2,
+                "rarity": 4,
                 "rooms": 15,
                 "staff": 8
             }
