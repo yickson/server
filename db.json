@@ -193,7 +193,7 @@
             }
         }
     ],
-    price: {
+    "price": {
         "name": "ParadiseHotel Token",
         "symbol": "PHT",
         "price": "2.108273280378396971346022384702",
